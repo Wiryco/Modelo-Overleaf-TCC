@@ -7,3 +7,5 @@ O modelo está em desenvolvimento.
 ### Versão 1.0
 
 #### Versão 1.1 - Modificação do capítulo de Agradecimentos
+
+#### Versão 2.0 - Novo layout alterado para atender a todos os padrões da faculdade DOCTUM; Implementação do modelo ABNTEX2.
